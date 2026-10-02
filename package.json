@@ -1,0 +1,1 @@
+{"name":"dayform","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node serve.mjs","check":"node verify.mjs","build":"node build-standalone.mjs"}}
